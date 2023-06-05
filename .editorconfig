@@ -1,4 +1,4 @@
 root = true
-end_of_line = lf
+end_of_line = auto
 inset_final_newLine = true
 indent_size = 4
